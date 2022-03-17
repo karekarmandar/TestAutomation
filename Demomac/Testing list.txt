@@ -1,0 +1,56 @@
+UI Testing
+Regregression Testing
+Specflow
+git git hub
+mockito
+cloud 
+POM
+API test
+Framework
+Springboot
+SQL
+Maven
+Framework
+Postman
+Jenkins
+xml
+
+cypress 
+
+Jmeter, Blazemeter, Eggplant ,
+
+Extent Reports
+
+Regression Testing
+
+-Manual Testing
+
+-Performance Testing/Load Testing
+
+-Stress Testing
+
+-Functional Testing
+
+-Usability Testing
+
+-Regression Testing
+
+-Integration Testing
+
+-Compatibility Testing
+
+-Database Testing
+
+-Smoke Testing
+
+-User Acceptance Testing
+
+-Basic Performance Testing
+
+-Beta Testing
+
+-White Box Testing
+
+-Black Box Testing
+
+-Test Strategies, Planning, Budgeting, Use Cases,Test cases
